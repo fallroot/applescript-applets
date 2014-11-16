@@ -9,6 +9,7 @@ Collection of AppleScript applets.
 1. Download any_app/build/any_app.zip file.
 2. Unzip downloaded file.
 3. Drag and drop the app into the Finder or Path Finder toolbar.
+4. **For OS X Mavericks and higher:** hold _⌘ + alt_ while dragging the applet.
 
 ## Applet List
 
